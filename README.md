@@ -7,3 +7,17 @@ How to cite this
 ```latex
 ```
 
+
+## Figures
+
+
+### Figure 1 - Antenna Selection Procedure
+
+Illustration of antenna selection method for different number of antennas. 
+The dark dots are the selected antennas, while the 6 penthagon markers indicate the centre of the 6 clusters. 
+The non-selected antenna positions are plotted with transparancy.
+
+### Figure 2 -
+
+
+
