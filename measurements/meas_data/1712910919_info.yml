@@ -1,0 +1,64 @@
+ansible:
+  ansible_inventory_yaml: hosts.yaml
+  ansible_start_script_yaml: start_waveform.yaml
+  ansible_stop_script_yaml: kill-transmitter.yaml
+antenna_states:
+  dark: []
+  ok:
+  - ch: 1
+    tile: G09
+  - ch: 0
+    tile: E06
+  - ch: 1
+    tile: B06
+  - ch: 0
+    tile: A09
+  - ch: 0
+    tile: D09
+  - ch: 1
+    tile: G06
+info:
+  description: Measurement for ESL 'SPAWC2024' paper at height 160 cm
+  xaxisoffset: 0
+  yaxisoffset: 0
+  zaxisoffset: 0
+positioning:
+  ip: 192.108.0.13
+  system: QUALYSIS
+scope:
+  cable_loss: 3.72
+  center_Hz: 917011000.0
+  ip: 192.108.0.251
+  rbw_Hz: 2.0
+  span_Hz: 5000.0
+tile_states:
+  changed:
+  - G09
+  - E06
+  - B06
+  - A09
+  - D09
+  - G06
+  dark: []
+  failures: []
+  ignored: []
+  ok:
+  - G09
+  - E06
+  - B06
+  - A09
+  - D09
+  - G06
+  processed:
+  - G09
+  - E06
+  - B06
+  - A09
+  - D09
+  - G06
+  rescued: []
+  skipped: []
+usrp:
+  external_configuration_file: partial_csv_tx_powers_M8.csv
+  external_settings: true
+  transmitters_enabled: true
