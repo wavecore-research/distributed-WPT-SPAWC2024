@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Callebaut"
+  given-names: "Gilles"
+  orcid: "https://orcid.org/0000-0003-2413-986X"
+- family-names: "Van Mulders"
+  given-names: "Jarne"
+- family-names: "Cox"
+  given-names: "Bert"
+- family-names: "Van der Perre"
+  given-names: "Liesbet"
+- family-names: "De Strycker"
+  given-names: "Lieven"
+- family-names: "Rottenberg"
+  given-names: "François"
+title: "How to Perform Distributed Precoding to Wirelessly Power Shelf Labels: Signal Processing and Measurements"
+version: 1.0.0
+url: "https://github.com/wavecore-research/distributed-WPT-SPAWC2024"
+conference: "2024 IEEE 25th International Workshop on Signal Processing Advances in
+Wireless Communications (SPAWC) (IEEE SPAWC 2024)"
+month: 09
+year: 2024
