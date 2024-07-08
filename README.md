@@ -30,7 +30,7 @@ Illustration of antenna selection method for different number of antennas.
 The dark dots are the selected antennas, while the 6 penthagon markers indicate the centre of the 6 clusters. 
 The non-selected antenna positions are plotted with transparancy.
 
-### Figure 2 -
+![image](https://github.com/wavecore-research/distributed-WPT-SPAWC2024/assets/8626571/6d1ec652-82d0-4dc8-9e6d-08559654242b)
 
 
 
