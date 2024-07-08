@@ -1,3 +1,0 @@
-- name: cff-validator
- uses: dieghernan/cff-validator@v3
-            
